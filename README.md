@@ -1,0 +1,2 @@
+# BIM
+Blibli Inventory Manager
